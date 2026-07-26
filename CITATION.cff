@@ -10,6 +10,7 @@ repository-code: "https://github.com/retogruenenfelder/agentic-cascade-governanc
 url: "https://github.com/retogruenenfelder/agentic-cascade-governance"
 date-released: 2026-07-26
 version: "1.0.0"
+doi: 10.5281/zenodo.21603493
 license: MIT
 abstract: >
   Python code that generates all figures (fig1–fig14) for the two-part paper
