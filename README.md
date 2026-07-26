@@ -37,7 +37,7 @@ If you use this code, please cite the papers and this repository. See [`CITATION
 
 ## Author
 
-Reto Gruenenfelder — [gruenenfelder.co](https://gruenenfelder.co)
+Reto Gruenenfelder — [reto@gruenenfelder.co](mailto:reto@gruenenfelder.co)
 
 ## Licence
 
