@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "agentic-cascade-governance: Code and figures for The Double-Slit Correspondence"
+authors:
+  - family-names: Gruenenfelder
+    given-names: Reto
+    orcid: ""
+repository-code: "https://github.com/retogruenenfelder/agentic-cascade-governance"
+url: "https://github.com/retogruenenfelder/agentic-cascade-governance"
+date-released: 2026-07-26
+version: "1.0.0"
+license: MIT
+abstract: >
+  Python code that generates all figures (fig1–fig14) for the two-part paper
+  series "The Double-Slit Correspondence: A Five-Parameter Structural Framework
+  for AI Governance" (SSRN abstracts 7184938 and 7184979).
+keywords:
+  - AI governance
+  - agentic AI
+  - cascade architecture
+  - model risk
+  - random affine recurrence
+  - double-slit correspondence
+references:
+  - type: article
+    title: "The Double-Slit Correspondence: A Five-Parameter Structural Framework for Single-Layer AI Governance — Part One: The Single Layer"
+    authors:
+      - family-names: Gruenenfelder
+        given-names: Reto
+    year: 2026
+    url: "https://ssrn.com/abstract=7184938"
+  - type: article
+    title: "The Double-Slit Correspondence: A Five-Parameter Structural Framework for Multi-Agent AI Governance — Part Two: The Cascade"
+    authors:
+      - family-names: Gruenenfelder
+        given-names: Reto
+    year: 2026
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7184979"
